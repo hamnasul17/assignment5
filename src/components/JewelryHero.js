@@ -25,7 +25,7 @@ const JewelryHero = () => {
             </div>
             <div>
               <h2 className="text-myBrown text-20px font-libreBodoni">
-               An example of intricate workmanship and detail, elegant necklaces and long and short chains form a part of our desirable collection.</h2>
+               An example of intricate workmanship and detail, elegant necklaces and long and short chains from a part of our desirable collection.</h2>
               </div>
             
            <div>
